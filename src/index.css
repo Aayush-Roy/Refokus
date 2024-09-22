@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Satoshi';
+    src: url('./assets/fonts/Satoshi-Variable.woff2') format('woff2'),
+         url('./assets/fonts/Satoshi-Variable.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
